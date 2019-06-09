@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6812dc18-ae16-4df5-b6be-67dad7e6f94e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/arithmetic_operators/arithmetic_operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arithmetic_operators/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/athlete_sort/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email/email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sets/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arithmetic_operators.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/athlete_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/athlete_sort/athlete_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/email.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/for_fun.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ginors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/__init__.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,15 +12,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/division.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ex.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -62,11 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sample/test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -103,9 +80,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sets/__init__.py">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -134,7 +120,6 @@
         <option value="$PROJECT_DIR$/loops.py" />
         <option value="$PROJECT_DIR$/swap_case.py" />
         <option value="$PROJECT_DIR$/tuple.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/print_function.py" />
         <option value="$PROJECT_DIR$/runner_up_score.py" />
         <option value="$PROJECT_DIR$/lists.py" />
@@ -174,6 +159,7 @@
         <option value="$PROJECT_DIR$/ginors/ginors.py" />
         <option value="$PROJECT_DIR$/ginors/test.py" />
         <option value="$PROJECT_DIR$/sample/test.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -195,6 +181,11 @@
             <path>
               <item name="choco" type="b2602c69:ProjectViewProjectNode" />
               <item name="choco" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="choco" type="b2602c69:ProjectViewProjectNode" />
+              <item name="choco" type="462c0819:PsiDirectoryNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="choco" type="b2602c69:ProjectViewProjectNode" />
@@ -424,13 +415,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/find_a_string.py" />
     <entry file="file://$PROJECT_DIR$/print_function.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -652,20 +636,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sample/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/product.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -692,6 +662,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sets/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
